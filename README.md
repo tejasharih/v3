@@ -33,6 +33,6 @@ Contributions
 Feel free to fork this repository and submit pull requests for improvements!
 
 Contact
-📧 Tejas Hariharan – Email
-🔗 LinkedIn – Your Profile
+📧 Tejas Hariharan – tejashariharan07@gmail.com
+🔗 LinkedIn – [Your Profile](https://www.linkedin.com/in/tejas-hari/)
 👨‍💻 GitHub – @tejasharih
